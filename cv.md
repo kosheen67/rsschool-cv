@@ -10,3 +10,18 @@ I’m a nice and friendly person. I’m punctual, I work well in a team but also
 * HTML (basic)
 * CSS (basic)
 * Git (basic)
+## Code example
+```
+function sum(a, b) {
+  return a + b;
+}
+
+let result = sum(1, 2);
+alert ( result );
+```
+## Experience
+RS School (stage 0 in process)
+## Education 
+**University:** Saratov State University, Master's Degree in Philology
+## English
+C1 Advanced
