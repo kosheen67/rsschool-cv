@@ -1,1 +1,1 @@
-# https://kosheen67.github.io/rsschool-cv/index.html
+# https://kosheen67.github.io/rsschool-cv/
